@@ -1,0 +1,2 @@
+# in ngrok.yml
+authtoken: <place your ngrok token here>
